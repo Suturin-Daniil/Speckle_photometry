@@ -1,3 +1,3 @@
 # Speckle photometry
 В этом репозитории содержится результаты работы по изучению спекл-картин.
-![.](Speckle_invert.png)
+![.](https://github.com/Suturin-Daniil/Speckle_photometry/blob/main/images/Speckle_invert.png)
